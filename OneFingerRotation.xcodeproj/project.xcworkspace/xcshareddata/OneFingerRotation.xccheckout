@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6D8ED153-10D1-48CE-9969-302B3A32CBEE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OneFingerRotation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A5156B05619A7091E19167ADBCC21BF8FD8CB04A</key>
+		<string>https://github.com/kingiol/KTOneFingerRotationGestureRecognizer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OneFingerRotation.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A5156B05619A7091E19167ADBCC21BF8FD8CB04A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kingiol/KTOneFingerRotationGestureRecognizer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A5156B05619A7091E19167ADBCC21BF8FD8CB04A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A5156B05619A7091E19167ADBCC21BF8FD8CB04A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KTOneFingerRotationGestureRecognizer</string>
+		</dict>
+	</array>
+</dict>
+</plist>

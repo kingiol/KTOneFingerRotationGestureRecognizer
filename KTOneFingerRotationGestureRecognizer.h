@@ -27,7 +27,7 @@
 #import <UIKit/UIKit.h>
 
 
-@interface KTOneFingerRotationGestureRecognizer : UIGestureRecognizer 
+@interface KTOneFingerRotationGestureRecognizer : UIGestureRecognizer
 {
     
 }
@@ -36,5 +36,6 @@
  The rotation of the gesture in radians since its last change.
  */
 @property (nonatomic, assign) CGFloat rotation;
+@property (assign, nonatomic) CGFloat scale;
 
 @end
