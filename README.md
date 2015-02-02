@@ -3,6 +3,7 @@ KTOneFingerRotationGestureRecognizer
 
 KTOneFingerRotationGestureRecognizer is a custom UIGestureRecognizer for doing one finger rotations in iOS apps. It tracks finger movement around a central point.
 
+![ScreenShot](./ScreenShot/screenshot.gif)
 
 License
 =======
